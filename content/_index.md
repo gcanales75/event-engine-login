@@ -38,4 +38,4 @@ weight = 1
 
 1. There you go, enjoy!
 
-	<img src="images/skitch.png" alt="drawing" width="800"/>
+	<img src="images/skitch.png" alt="drawing" width="1000"/>
