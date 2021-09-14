@@ -1,0 +1,6 @@
+git remote add eelogin git@github.com:gcanales75/event-engine-login.git
+git branch -M main
+
+git add .
+git commit -m "first commit"
+git push -u eelogin main
